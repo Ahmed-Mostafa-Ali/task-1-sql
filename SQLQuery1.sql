@@ -1,0 +1,3 @@
+-- from database we entered right click to create newdatabas then to rename it right click and choose rename 
+-- I have a problem while making changes through sql code it didn't change directly I should close the programm and open it again 
+-- another question it matter to write uppercase or lower or not thank in advance 
